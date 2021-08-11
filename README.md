@@ -6,10 +6,11 @@ Check out the live chat app at https://anime-chat-app.netlify.app.
 
 ## App Overview
 Login Page:
-![WechatIMG406](https://user-images.githubusercontent.com/56233967/128966071-b9101d3b-9080-4071-8074-a15491fe9d1b.jpeg)
+![1421628657118_ pic_hd](https://user-images.githubusercontent.com/56233967/128971299-8f3ead9a-7b60-41b9-ac63-2bec92da3ca2.jpg)
 
-Chatting Pagge:
-<img width="1792" alt="Screen Shot 2021-08-11 at 11 44 29 AM" src="https://user-images.githubusercontent.com/56233967/128966307-8e212c1b-b787-4bd0-8def-99302cca74c8.png">
+Chatting Page:
+<img width="1792" alt="Screen Shot 2021-08-11 at 12 49 20 PM" src="https://user-images.githubusercontent.com/56233967/128971391-11a1bd0e-211d-49ec-836e-970b42cd54e8.png">
+
 
 Functionality:
 * Sign up using Chat Engine https://chatengine.io/, admin has to sign up for the project members.
