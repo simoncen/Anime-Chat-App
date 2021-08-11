@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Anime Chat App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,11 +6,27 @@ Check out the live chat app at https://anime-chat-app.netlify.app.
 
 ## App Overview
 Login Page:
+![WechatIMG406](https://user-images.githubusercontent.com/56233967/128966071-b9101d3b-9080-4071-8074-a15491fe9d1b.jpeg)
+
+Chatting Pagge:
+<img width="1792" alt="Screen Shot 2021-08-11 at 11 44 29 AM" src="https://user-images.githubusercontent.com/56233967/128966307-8e212c1b-b787-4bd0-8def-99302cca74c8.png">
+
+Functionality:
+* Sign up using Chat Engine https://chatengine.io/, admin has to sign up for the project members.
+* Add different chat section on the left of the app or in Chat Engine.
+* Delete chat section under the Option tag on the right.
+* Send photos.
+* Send text messages.
+* Add signed-up members to the chat under the People tag on the right.
+* Checkout all the photos sent in the chat section under the Photos section on the right.
+
 
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
