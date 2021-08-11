@@ -1,14 +1,14 @@
 const MyMessage = ( { message }) => {
     // render the image
-    if(message?.attachements?.length > 0){ // message is an image(? checks the existance the the previous variable)
-        return  (
+    if(message?.attachments?.length > 0){ // message is an image(? checks the existance the the previous variable)
+        return (
             <img
-                src={message.attachements[0].file}
+                src={message.attachments[0].file}
                 alt="message-attachment"
                 className="message-image"
-                style={{ float: 'right' }} // my messages appears on the right side of the window
+                style={{ float: 'right' }}
             />
-        )
+        );
     }
 
     // render the text
