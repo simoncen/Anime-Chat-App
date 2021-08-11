@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check out the live chat app at https://anime-chat-app.netlify.app.
+
+## App Overview
+Login Page:
+
+
 ## Available Scripts
 
 In the project directory, you can run:
